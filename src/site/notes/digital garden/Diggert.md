@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/diggert/"}
+{"dg-publish":true,"permalink":"/digital-garden/diggert/","tags":["gardenEntry"]}
 ---
 
 ## This is a test
