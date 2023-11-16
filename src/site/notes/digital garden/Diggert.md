@@ -5,7 +5,7 @@
 ## This is a test
 
 
-a test
+a test.
 
 
 This is a test
